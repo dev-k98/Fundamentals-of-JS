@@ -3,3 +3,7 @@
 ## Fundamental of JavaScript-1 
 This folder contains 2 files (index.html, script.js)
 This files contain the basics JS data-types, string, template literals etc
+
+## Fundamental of JavaScript-2 
+This folder contains 2 files (index.html, script.js)
+This files contain the basics JS functions, declaration, loops and conditions etc
