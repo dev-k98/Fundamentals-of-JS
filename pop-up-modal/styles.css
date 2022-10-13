@@ -1,0 +1,48 @@
+body,
+html {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.button {
+  height: 50px;
+  width: 150px;
+  font-size: 32px;
+  padding: 0;
+  margin: 0;
+  color: #fff;
+  background-color: #751324;
+}
+
+.button:hover {
+  background-color: #b71f38;
+  color: #000;
+}
+
+.hidden {
+  display: none;
+}
+
+.backdrop {
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.modal {
+  position: relative;
+  display: flex;
+  height: 200px;
+  width: 300px;
+  background:#751324
+}
+
+.close{
+  position: absolute;
+  right: 0;
+}

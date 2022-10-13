@@ -13,3 +13,9 @@ This folder contains 3 files (index.html, script.js, styles.css)
 This files contain 
 - A basics JS functions to generate random function
 - HTML file with 4 nodes for heading, result, an input and a check button.
+
+## Pop up modal (hands on JS) 
+This folder contains 3 files (index.html, script.js, styles.css)
+This files contain 
+- A basics JS functions to generate random function
+- HTML file with 4 nodes for heading, result, an input and a check button.
